@@ -4,7 +4,7 @@
   <groupId>com.ibm.dita</groupId>
   <artifactId>dita-bluemix-test</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1</version>
   <name>dita-bluemix-test</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -21,4 +21,23 @@
           <version>2.2.1</version>
       </dependency>
   </dependencies>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>ditaot-maven-plugin</artifactId>
+        <version>1.0</version>
+        <executions>
+        <execution>
+          <configuration>
+          </configuration>
+          <goals>
+            <goal>version</goal>
+            <!--goal>run</goal-->
+          </goals>
+        </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
 </project>
