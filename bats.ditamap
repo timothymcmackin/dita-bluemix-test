@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//IBM//DTD DITA IBM Map//EN"
+ "ibm-map.dtd">
+<map activity="use learn" operatingsystem="AIX_7.1" product="ssw_aix_71"
+xml:lang="en-us">
+<title>Bats</title>
+<topicref href="topics/bats.dita" navtitle="Bats">
+<topicref href="topics/batcaring.dita" navtitle="Caring for your fruit bat">
+</topicref>
+<topicref href="topics/batcleaning.dita" navtitle="Cleaning your fruit bat">
+</topicref>
+<topicref href="topics/batfeeding.dita" navtitle="Feeding your bat"></topicref>
+<topicref href="topics/batsonar.dita" navtitle="Bat sonar"></topicref>
+<topicref href="topics/batguano.dita" navtitle="Bat guano"></topicref>
+<topicref href="topics/bathistory.dita" navtitle="Bat history"></topicref>
+<topicref href="topics/batreuse.dita" navtitle="Bat recycling"></topicref>
+</topicref>
+<topicgroup linking="none" print="no" toc="no">
+<topicref href="topics/batpicdesc.dita" navtitle="Bat picture description">
+</topicref>
+<topicref href="topics/batpush.dita" processing-role="resource-only">
+</topicref>
+</topicgroup>
+</map>

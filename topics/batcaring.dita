@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN"
+ "ibm-task.dtd">
+<task id="batcaring" xml:lang="en-us">
+<title>Caring for your fruit bat</title>
+<shortdesc>Learn how to care for your new pet bat.</shortdesc>
+<taskbody>
+<context>Fruit bats need just a little tender-loving care each day.
+Ensuring that your bat is happy and content will give you many unending
+days and nights of wonderful rewards.</context>
+<steps>
+<step><cmd>Be sure to feed your bat.</cmd><info>This can be a wonderfully
+rewarding family experience.</info><tutorialinfo>To learn how, see <xref
+href="batfeeding.dita"></xref>.</tutorialinfo></step>
+<step>
+<cmd>Hold, pet, and cuddle your bat.</cmd>
+<info>Showing kindness and gentleness towards your bat will help it grow fond of you. It may soon
+come when you call it by name.</info>
+</step>
+<step><cmd>Remember to groom your bat's fur.</cmd><info>Be sure to
+brush your bat's fur from front to back. They hate having their fur
+rubbed backwards.</info><info>Use a brush with soft bristles. Hard
+bristle brushes may cause your bat to bite!</info></step>
+<step id="nice"><cmd>Do something nice for your bat once in a while.</cmd>
+<info>Bats appreciate gifts of small caves, insects, and the occasional
+castle.</info></step>
+</steps>
+</taskbody>
+</task>

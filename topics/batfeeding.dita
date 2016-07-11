@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN"
+ "ibm-task.dtd">
+<task id="batfeeding" xml:lang="en-us">
+<title>Feeding your bat</title>
+<shortdesc>This topic describes how you can feed your new bat!</shortdesc>
+<taskbody>
+<prereq>Find and open the package of <cite>Purina Bat Chow</cite> that
+is enclosed in your bat box.</prereq>
+<context>Feeding your bat can be a wonderful experience. Involve the
+whole family so they can all share in the fun!</context>
+<steps>
+<stepsection>Do the following steps to feed your bat:</stepsection>
+<step><cmd>Let your bat free-fly through the air.</cmd></step>
+<step><cmd>Toss the bat chow into the air.</cmd>
+<choices>
+<choice>To properly toss the bat chow, an underhand toss is recommended.
+This yields the highest possible altitude; thus giving your bat the
+best exercise while honing its echo-location skills.</choice>
+<choice>Overhand tosses are good for <q>line-drives</q>; when you
+want to watch your bat fly its fastest. Make sure that you get a good
+arc (at least 10 feet high), so your bat has a chance of catching
+the chow. While you can use the <tm tmtype="reg" trademark="1-2-3">1-2-3</tm> program
+to determine the optimal flight angle for the bat chow, the Bat <tm
+tmtype="tm" trademark="1350">1350</tm> is recommended system. <tm
+tmtype="reg" trademark="SoDA">SoDA</tm> is a special drink for your
+bat, helping it to fly faster and higher.<p>Bats, when frustrated,
+click and squeak incessantly. Use the <tm tmtype="tm"
+trademark="IBM Speech to Speech Translator">IBM Speech to Speech Translator</tm> to
+understand the squeaks.</p></choice>
+</choices>
+</step>
+<step id="watch"><cmd>Watch in delight as your bat homes in on the
+tossed food, catching it in mid-air.</cmd></step>
+</steps>
+<result>Bats also like all sorts of bugs and insects. You can also
+use fruit. But ensure that the fruit is bat-bite-sized. We once saw
+a giant fruit bat try to catch a pineapple in mid-air; it was not
+a pretty sight.</result>
+</taskbody>
+<?tm 1241557124 5?>
+</task>

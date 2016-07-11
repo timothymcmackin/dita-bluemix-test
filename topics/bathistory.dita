@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN"
+ "ibm-reference.dtd">
+<reference id="bathistory" xml:lang="en-us">
+<title>Bat history</title>
+<shortdesc>Learn about the valuable role that bats have played in history</shortdesc>
+<refbody>
+<section>Throughout history, bats have been maligned and treated poorly. How
+undeserving! Bats have provided extremely valuable services to our well-being.
+One bat alone can eat a pound of mosquitoes in an hour!</section>
+<properties keycol="1">
+<property>
+<proptype>Nocturnal</proptype>
+<propdesc>They come out mainly at night.</propdesc>
+</property>
+<property>
+<proptype>Size</proptype>
+<propdesc>From the size of a bumblebee to the size of a fox.</propdesc>
+</property>
+<property>
+<proptype>Wingspan</proptype>
+<propdesc>From less than an inch to 6 feet.</propdesc>
+</property>
+</properties>
+</refbody>
+</reference>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//IBM//DTD DITA IBM Topic//EN"
+ "ibm-topic.dtd">
+<topic id="batreuse" xml:lang="en-us">
+<title>Bat recycling</title>
+<shortdesc>Learn about reusing parts of your bat files.</shortdesc>
+<body>
+<p conref="bats.dita#bats/thanks"></p>
+<p conref="bats.dita#bats/wonder"></p>
+<fig conref="bats.dita#bats/figbat"></fig>
+</body>
+</topic>

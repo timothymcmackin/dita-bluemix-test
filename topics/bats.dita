@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//IBM//DTD DITA IBM Topic//EN"
+ "ibm-topic.dtd">
+<topic id="bats" xml:lang="en-us">
+<title>Bats</title>
+<shortdesc>Learn about your new bat.</shortdesc>
+<prolog><metadata>
+<keywords><keyword>ACME Bat Company</keyword></keywords>
+</metadata></prolog>
+<body>
+<p id="wonder">Bats are one of nature's wonders. A flying mammal that
+uses sound waves to locate flying insects in the dark.</p>
+<fig id="figbat"><title>Your cute, furry bat </title>
+<image href="../images/batpic.gif" longdescref="batpicdesc.dita" placement="break">
+<alt>Picture of my cute bat being held</alt></image>
+</fig>
+<p id="thanks">Thank-you for your purchase of the ACME Home Bat kit.
+We hope that it gives you and your family lots of wholesome fun.</p>
+<note type="attention">Ensure that you handle your bat while wearing
+welding gloves. You do not want to get bitten.</note>
+<p>Use <tm tmtype="tm" trademark="Anyplace">Anyplace</tm> to quickly
+determine your bat's location; this will help you care for it: <xref
+href="batcaring.dita" keyref="atopic" scope="peer"></xref>. The <tm
+tmtype="tm" trademark="HyperSwap">HyperSwap</tm> will help your bat
+return home if it ever gets loose.</p>
+</body>
+<?tm 1241557123 2?>
+</topic>

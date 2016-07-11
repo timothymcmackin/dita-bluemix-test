@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN"
+ "ibm-task.dtd">
+<task id="batpush" xml:lang="en-us">
+<title>Bat push</title>
+<shortdesc>Pushing information about bats into other locations.</shortdesc>
+<taskbody>
+<context>When built together with the target of the conref, this information
+will be pushed into the other file.</context>
+<steps>
+<step><cmd>The following step replaces one in bat caring.</cmd></step>
+<step conaction="pushreplace" conref="batcaring.dita#batcaring/nice"><cmd>If your bats gets pushy,
+try giving it some alone time to come to its senses.</cmd><info>Once in a while bats
+need time on their own, especially if you have loud children around.</info></step>
+<step><cmd>The following 2 steps are used to push a step into bat feeding, after an existing step.</cmd><info>To
+push before, remember to reverse the order of the "mark" and "push" steps.</info></step>
+<step conaction="mark" conref="batfeeding.dita#batfeeding/watch"><cmd></cmd></step>
+<step conaction="pushafter"><cmd>Don't forget to clean up all the spilled chow that
+your bat did not manage to catch.</cmd><info>Over time, as your bat gets used to your
+throwing style, there will be less and less to clean up.</info></step>
+</steps>
+</taskbody>
+</task>

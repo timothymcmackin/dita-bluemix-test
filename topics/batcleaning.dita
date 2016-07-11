@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN"
+ "ibm-task.dtd">
+<task id="batcleaning" xml:lang="en-us">
+<title>Cleaning your fruit bat</title>
+<shortdesc>Ensure your bat stays clean and healthy.</shortdesc>
+<taskbody>
+<prereq>Ensure that you have a supply of <b>ACME Bat Shampoo</b> on
+hand.</prereq>
+<context>Fruit bats are as fastidious about cleanliness as is a house
+cat. But sometimes your bat will need a bath, just as a house cat
+occasionally does.</context>
+<steps>
+<step><cmd>Start filling your bathtub with warm water.</cmd><info>Ensure
+the temperature is 32 degrees Celsius (83 Fahrenheit).</info></step>
+<step><cmd>Use your <b>ACME Bat Catcher</b> to locate and apprehend
+your bat.</cmd><info>You can also use a tennis racquet or a hammock
+made with thick string (not rope!). Your results may be less than
+satisfactory; you may break a few table lamps or vases.</info>
+<substeps>
+<substep><cmd>Grasp the bat-catcher by the handle.</cmd></substep>
+<substep><cmd>Extend the Gentle-Touch netting</cmd></substep>
+<substep><cmd>Wait for the bat to fly by, and snatch it out of the
+air.</cmd><info>If your spouse is laughing hysterically at this point,
+be patient; you probably do look a little silly.</info></substep>
+</substeps>
+</step>
+<step><cmd>If your tub has overflowed, you have some choices:</cmd>
+<choicetable>
+<chhead>
+<choptionhd>If you...</choptionhd>
+<chdeschd>Then please...</chdeschd></chhead>
+<chrow>
+<choption>Want to clean up now?</choption>
+<chdesc>Go find a mop and bucket. Clean up the mess.</chdesc></chrow>
+<chrow>
+<choption>Want to wait until after the bat's bath?</choption>
+<chdesc>Just turn off the water and clean up later. No doubt more
+water will get on the floor in the next several steps.</chdesc></chrow>
+</choicetable>
+</step>
+<step><cmd>Gently introduce your bat to the water.</cmd></step>
+<step><cmd>Wash your bat, being careful not to get water in its ears.</cmd>
+<info>Use the shampoo sparingly. Remember to lather, rinse, and repeat.</info>
+</step>
+<step><cmd>Dry your bat with a towel and hair dryer.</cmd><info>Having
+a wet bat flying around your house, probably squeaking and mad at
+this point, can often be an unpleasant experience. The <tm tmtype="tm"
+trademark="IBM Speech to Speech Translator">IBM Speech to Speech Translator</tm> will
+help you understand what your bat is squeaking.</info></step>
+</steps>
+</taskbody>
+</task>

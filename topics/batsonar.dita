@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<concept id="batsonar" xml:lang="en-us">
+<title>Bat sonar</title>
+<shortdesc>Learn how bats find their way in the dark!</shortdesc>
+<prolog><metadata>
+<keywords><indexterm>sound waves</indexterm><indexterm>waves, sound</indexterm>
+</keywords>
+</metadata></prolog>
+<conbody>
+<p>Bats locate their food and other things by a series of high-pitched
+squeaks from their mouth. They have extremely sensitive hearing. They
+can time their squeaks and the echo returning to their ears, to accurately
+measure the distance to their prey.</p>
+<p>They also use this echo-location to avoid hitting the walls, floors,
+or ceilings of a pitch-dark cave! </p>
+<p>While bats have poor eyesight, the <tm tmtype="tm"
+trademark="Many Eyes">Many Eyes</tm> accessory gives them night-vision
+capabilities.</p>
+</conbody>
+<?tm 1241557125 1?>
+</concept>
