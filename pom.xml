@@ -33,10 +33,14 @@
             <!-- how do I set the parameters? -->
             <!-- ant home: /cygdrive/c/Program Files (x86)/apache-ant-1.9.3/bin/ -->
             <!-- dita home (note specific version of DITA-OT): C:\Program Files\DITA-OT1.8.5 -->
+            <antProperties>
+              <args.input>bats.ditamap</args.input>
+              <transtype>xhtml</transtype>
+            </antProperties>
           </configuration>
           <goals>
             <goal>version</goal>
-            <!--goal>run</goal-->
+            <goal>run</goal>
           </goals>
         </execution>
         </executions>
