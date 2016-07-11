@@ -30,6 +30,9 @@
         <executions>
         <execution>
           <configuration>
+            <!-- how do I set the parameters? -->
+            <!-- ant home: /cygdrive/c/Program Files (x86)/apache-ant-1.9.3/bin/ -->
+            <!-- dita home (note specific version of DITA-OT): C:\Program Files\DITA-OT1.8.5 -->
           </configuration>
           <goals>
             <goal>version</goal>
