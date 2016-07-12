@@ -1,0 +1,53 @@
+plugins {
+    id 'com.github.eerohele.dita-ot-gradle' version '0.4.0'
+    id 'com.moowork.node' version '0.11'
+    id 'com.moowork.gulp' version '0.11'
+}
+
+defaultTasks 'publish'
+
+File ditaOtRepo = new File(System.getenv('DITA_GIT'))
+File ditaHome = new File(ditaOtRepo, 'src/main')
+
+ditaOt.dir ditaHome
+
+task copyResources(type: Copy) {
+    from 'src/main/resources/data.json'
+    into buildDir
+}
+
+task setup(type: GradleBuild) {
+    buildFile = 'dita-ot.gradle'
+    tasks = ['setup']
+    startParameter.projectProperties = gradle.startParameter.projectProperties
+}
+
+dita {
+    input fileTree(dir: 'dita', include: 'bats.ditamap')
+    transtype 'xhtml'
+}
+
+/*
+dita {
+    dependsOn 'copyResources'
+
+    input 'src/main/dita/index.ditamap'
+    filter 'src/main/ditaval/default.ditaval'
+    transtype 'html5'
+    devMode true
+
+    properties {
+        property(name: 'processing-mode', value: 'strict')
+        property(name: 'args.xhtml.toc', value: 'toc')
+    }
+}
+*/
+
+task publish(dependsOn: ['dita', 'gulp_styles', 'gulp_scripts'])
+
+tasks.gulp_styles.dependsOn('installGulp', 'npmInstall')
+tasks.gulp_scripts.dependsOn('installGulp', 'npmInstall')
+
+npm_install {
+    args = ['--loglevel', 'error']
+}
