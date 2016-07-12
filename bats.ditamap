@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//IBM//DTD DITA IBM Map//EN"
- "ibm-map.dtd">
-<map activity="use learn" operatingsystem="AIX_7.1" product="ssw_aix_71"
-xml:lang="en-us">
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+ "../dtd/technicalContent/dtd/map.dtd">
+<map activity="learn" operatingsystem="AIX_7.1" product="ssw_aix_71" xml:lang="en-us">
 <title>Bats</title>
 <topicref href="topics/bats.dita" navtitle="Bats">
 <topicref href="topics/batcaring.dita" navtitle="Caring for your fruit bat">
